@@ -9,6 +9,8 @@ NOTA: PARA LOS QUE USAN SQL SERVER ESTO ES LO QUE DEBEN HACER SI VAN A USAR AUTE
 4. LUEGO DEBE CERRAR EL IDE RESPECTIVO Y VOLVERLO A INICIAL.
  */
 
+// Esta es una prueba.
+
 import java.sql.*;
 //comentario para probar GITHUB
 public class JDBCExample{
