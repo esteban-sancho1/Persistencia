@@ -13,6 +13,7 @@ NOTA: PARA LOS QUE USAN SQL SERVER ESTO ES LO QUE DEBEN HACER SI VAN A USAR AUTE
 // Esta es la segunda prueba. Github desktop.
 
 import java.sql.*;
+//segundo comentario Esteban
 //comentario para probar GITHUB
 public class JDBCExample{
     public static void main (String args[]) {
