@@ -10,7 +10,7 @@ NOTA: PARA LOS QUE USAN SQL SERVER ESTO ES LO QUE DEBEN HACER SI VAN A USAR AUTE
  */
 
 import java.sql.*;
-
+//comentario para probar GITHUB
 public class JDBCExample{
     public static void main (String args[]) {
         try {
